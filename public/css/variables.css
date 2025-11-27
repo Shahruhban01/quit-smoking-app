@@ -1,0 +1,55 @@
+/**
+ * CSS Custom Properties - Hacker Theme
+ * Centralized design tokens for easy customization
+ */
+
+:root {
+    /* Neon Colors */
+    --neon-cyan: #00ff88;
+    --neon-magenta: #ff00ff;
+    --neon-yellow: #ffff00;
+    --neon-blue: #00ffff;
+    --neon-lime: #88ff00;
+    
+    /* Background Colors */
+    --bg-dark: #0a0a0f;
+    --bg-darker: #050508;
+    --bg-panel: rgba(15, 15, 25, 0.7);
+    --bg-glass: rgba(20, 20, 35, 0.6);
+    
+    /* Text Colors */
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --text-accent: var(--neon-cyan);
+    --text-warning: #ff4444;
+    
+    /* Borders & Shadows */
+    --border-neon: 2px solid var(--neon-cyan);
+    --glow-cyan: 0 0 10px var(--neon-cyan), 0 0 20px var(--neon-cyan);
+    --glow-magenta: 0 0 10px var(--neon-magenta), 0 0 20px var(--neon-magenta);
+    --shadow-deep: 0 10px 40px rgba(0, 0, 0, 0.8);
+    
+    /* Spacing */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 1.5rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 3rem;
+    
+    /* Border Radius */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 12px;
+    
+    /* Transitions */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease;
+    
+    /* Z-index layers */
+    --z-background: -1;
+    --z-content: 1;
+    --z-header: 100;
+    --z-modal: 1000;
+    --z-overlay: 2000;
+}
