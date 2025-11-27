@@ -72,7 +72,7 @@
 
 1. **Clone the repository**
 ```
-git clone https://github.com/yourusername/quit-smoking-app.git
+git clone https://github.com/shahruhban01/quit-smoking-app.git
 cd quit-smoking-app
 ```
 
@@ -352,8 +352,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/quit-smoking-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/quit-smoking-app/discussions)
+- **Issues**: [GitHub Issues](https://github.com/shahruhban01/quit-smoking-app/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/shahruhban01/quit-smoking-app/discussions)
 - **Email**: ethicalcodex.00@example.com
 
 ---
